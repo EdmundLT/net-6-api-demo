@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="database" uuid="0411eb39-65ae-40fd-8dba-555448d372a3">
+      <driver-ref>azure.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>edmundlt.database.windows.net</remarks>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://edmundlt.database.windows.net:1433;database=superherodb</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
